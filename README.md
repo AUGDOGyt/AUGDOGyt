@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AUGDOGyt
-- 👀 I’m interested in Eurovision #justiceforJoost
-- 🌱 I’m currently learning intermediate python, intermediate HTML, begginer CSS, and begginer JS
-- 💞️ I’m looking to collaborate on my first ever game project
+- 👋 Hi, I’m AUG__DOG
+- 👀 I’m interested in JJK (literally making a fan game lol)
+- 🌱 I’m currently learning intermediate python, intermediate HTML, intermediate CSS, and begginer JS
+- 💞️ Bisexual with a wonderful bf (Cocoa ❤️)
 - 📫 How to reach me leave a comment on my projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: proud Swede
